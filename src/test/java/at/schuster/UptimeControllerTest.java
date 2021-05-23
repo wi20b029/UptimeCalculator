@@ -3,6 +3,8 @@ package at.schuster;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import javax.ws.rs.GET;
+
 public class UptimeControllerTest {
     @Test
     public void test_calculateUptime_shouldBeCalulatedCorrectly(){
@@ -15,4 +17,6 @@ public class UptimeControllerTest {
         // Assert
         Assertions.assertEquals(String.format("%.2f", 43178.40), actualValue);
     }
+
+
 }
