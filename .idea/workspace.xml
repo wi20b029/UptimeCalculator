@@ -8,10 +8,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="721aa6a8-e08b-41f0-9c16-88f67a2b19af" name="Default Changelist" comment="fixed test on CI environment">
+    <list default="true" id="721aa6a8-e08b-41f0-9c16-88f67a2b19af" name="Default Changelist" comment="added default operation to the controller (second)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/schuster/UptimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/schuster/UptimeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/at/schuster/UptimeControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/at/schuster/UptimeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../Program Files/JetBrains/IntelliJ IDEA Community Edition 2020.2.1/plugins/maven/lib/maven3" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -125,7 +124,9 @@
       <option name="presentableId" value="Default" />
       <updated>1621700146977</updated>
       <workItem from="1621700148909" duration="587000" />
-      <workItem from="1621704143555" duration="18215000" />
+      <workItem from="1621704143555" duration="20352000" />
+      <workItem from="1622017148921" duration="599000" />
+      <workItem from="1622375450843" duration="2691000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1621701334206</created>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621762028634</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added default operation to the controller (second)">
+      <created>1621762785355</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621762785355</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +249,7 @@
     <MESSAGE value="changed readme" />
     <MESSAGE value="first tests (unit test and live test through the browser) works" />
     <MESSAGE value="fixed test on CI environment" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed test on CI environment" />
+    <MESSAGE value="added default operation to the controller (second)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added default operation to the controller (second)" />
   </component>
 </project>
